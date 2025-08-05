@@ -1,0 +1,4 @@
+ShipmentID,RetailCoOrderID,OriginName,OriginAddress,OriginCity,OriginState,OriginZip,DestinationName,DestinationAddress,DestinationCity,DestinationState,DestinationZip,PickupDate,PickupTime,DeliveryDate,DeliveryTime,WeightLBS,CommodityDescription,TrailerType
+SHP0012345,PO987654,RetailCo DC Dallas,123 Main St,Dallas,TX,75201,Customer A Warehouse,456 Oak Ave,Houston,TX,77001,2025-08-05,08:00,2025-08-06,17:00,25000,Electronics,Vented Van
+SHP0012346,PO987655,RetailCo DC Dallas,123 Main St,Dallas,TX,75201,Customer B Store,789 Pine Ln,Austin,TX,78701,2025-08-05,10:00,2025-08-05,18:00,10000,Apparel,Dry Van
+SHP0012347,PO987656,RetailCo DC Fort Worth,500 Elm St,Fort Worth,TX,76102,Customer C Distribution,101 Cedar Rd,San Antonio,TX,78201,2025-08-06,09:00,2025-08-07,12:00,35000,Home Goods,Dry Van
